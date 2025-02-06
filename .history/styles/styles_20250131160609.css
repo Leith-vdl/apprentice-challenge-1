@@ -1,0 +1,47 @@
+body { 
+    font-size: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+main {
+    margin: 0 10em;
+}
+
+img.bone-gif, h1.page-header-title {
+    width: 4em;
+    height: auto;
+    display: inline;
+    vertical-align: middle;
+}
+
+header.page-header, footer.page-footer {
+    margin: 0 0 0 2em;
+}
+
+h1.page-header-title, h3.section-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.2em;
+}
+
+section {
+    background-color: bisque;
+    padding: 0.2em;
+}
+
+h3.section-title {
+    margin-top: 2em;
+}
+
+p.section-main-text, p.section-main-text1 {
+    border-bottom: 2px solid black;
+}
+
+p.section-main-text1 {
+    padding: 0 0 1em 1em;
+    border-left: 2px solid black;
+}
+
+p.section-main-text {
+    padding: 0 1em 1em 0;
+    border-right: 2px solid black;
+}

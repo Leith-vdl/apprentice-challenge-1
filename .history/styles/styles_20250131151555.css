@@ -1,0 +1,11 @@
+body {
+    margin: 0.5em 4em; 
+}
+
+.page-header {
+    border-bottom: 1px solid black;
+}
+
+h1.page-header-title {
+    margin: 0px;
+}

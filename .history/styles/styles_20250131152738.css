@@ -1,0 +1,22 @@
+body {
+    margin: 1em 8em; 
+    font-size: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.page-header {
+    border-bottom: 2px solid black;
+}
+
+h1.page-header-title {
+    
+}
+
+h1.page-header-title, h3.section-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.2em;
+}
+
+p.section-main-text {
+    padding-bottom: 0em;
+}

@@ -1,0 +1,60 @@
+body { 
+    font-size: 1.4em;
+    font-family: 'Georgia, 'Times New Roman', Times, serif';
+    background: url(/img/park.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+main {
+    margin: 0 20%;
+    border-radius: 10px;
+}
+
+h1.page-header-title {
+    width: 4em;
+    display: inline;
+}
+
+h1.page-header-title, h3.section-title {
+    font-family: 'Atma';
+    margin-top: 3em;
+}
+
+header.page-header {
+    border-bottom: 2px solid black;
+}
+
+.section-main-text p {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+footer.page-footer {
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+   body {
+    font-size: 1em;
+   }
+
+    main {
+        margin: 0 10%;
+    }
+
+    .page-header-title {
+        font-size: 1.2em;
+    }
+
+    footer.page-footer {
+        font-size: 0.8em;
+    }
+
+}
+  

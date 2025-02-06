@@ -1,0 +1,12 @@
+body {
+    margin: 2em 8em; 
+    font-size: 1.6em;
+}
+
+.page-header {
+    border-bottom: 2px solid black;
+}
+
+h1.page-header-title, h3.section-title {
+    margin: 5px;
+}

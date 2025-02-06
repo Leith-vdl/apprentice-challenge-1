@@ -1,0 +1,52 @@
+body { 
+    font-size: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+main {
+    margin: 0 14em;
+}
+
+img.bone-gif, h1.page-header-title {
+    width: 4em;
+    height: auto;
+    display: inline;
+    vertical-align: middle;
+}
+
+header.page-header {
+    margin: 0 2em;
+    border-bottom: 2px solid black;
+}
+
+h1.page-header-title, h3.section-title {
+    font-family: 'Atma', sans-serif;
+    margin-bottom: 0.2em;
+}
+
+section.page-content-section {
+    margin: 2em 0;
+    /* padding: 0.5em;
+    background-color: bisque;
+    border-radius: 10px; */
+}
+
+p.section-main-text, p.section-main-text1 {
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+}
+
+p.section-main-text {
+    padding: 0 1em 1em 0;
+    border-right: 2px solid black;
+    border-radius: 0 0 10px 0;
+}
+
+a {
+    transition-property: 
+    transition-duration
+}
+
+footer.page-footer {
+    text-align: center;
+}
